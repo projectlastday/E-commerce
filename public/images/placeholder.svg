@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <rect width="400" height="400" fill="#f1f5f9"/>
+  <g fill="none" stroke="#cbd5e1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="120" y="120" width="160" height="160" rx="16" fill="#e2e8f0"/>
+    <circle cx="160" cy="160" r="16" fill="#cbd5e1" stroke="none"/>
+    <path d="M124 240l45-45 35 35 40-40 32 32" stroke="#94a3b8" stroke-width="3"/>
+  </g>
+  <text x="200" y="315" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#94a3b8" text-anchor="middle">Lokaloka</text>
+</svg>
